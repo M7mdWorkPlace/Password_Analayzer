@@ -65,9 +65,10 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/password-strength-analyzer.git
+---
 
-Author
-Mishal alghamdi
-Ziyad bukhari
-Mohammad Alzaher
-And others
+## Authors
+- Mishal Alghamdi
+- Ziyad Bukhari
+- TMohammad Alzaher
+-and others
