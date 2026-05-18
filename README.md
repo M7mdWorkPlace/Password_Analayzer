@@ -64,8 +64,7 @@ The password is then classified into one of the following levels:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/password-strength-analyzer.git
-
+https://github.com/M7mdWorkPlace/Password_Analayzer.git
 
 
 
