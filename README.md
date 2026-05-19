@@ -64,7 +64,7 @@ The password is then classified into one of the following levels:
 Clone the repository:
 
 ```bash
-https://github.com/M7mdWorkPlace/Password_Analayzer.git
+git clone https://github.com/M7mdWorkPlace/Password_Analayzer.git
 
 
 
